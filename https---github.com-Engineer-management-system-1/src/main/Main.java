@@ -26,7 +26,7 @@ import java.util.logging.Level;
  * --verbose : 詳細なログ出力を有効化
  * </p>
  *
- * @author Bando
+ * @author Bando,Nakano
  * @version 1.0.0
  * @since 2025-02-18
  */
