@@ -26,10 +26,10 @@ import java.util.logging.Level;
  * --verbose : 詳細なログ出力を有効化
  * </p>
  *
- * @author Bando、なかの、ながい
+ * @author Bando、なかの、ながい、はやし、よしだ
  * @version 1.0.0
  * @since 2025-02-18
- * あ
+ * 
  */
 public class Main {
 
