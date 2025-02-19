@@ -29,6 +29,7 @@ import java.util.logging.Level;
  * @author Bando、nakano,nagai、はやい
  * @version 1.0.0
  * @since 2025-02-18
+ * あ
  */
 public class Main {
 
