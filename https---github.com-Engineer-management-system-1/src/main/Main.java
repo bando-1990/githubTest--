@@ -29,7 +29,7 @@ import java.util.logging.Level;
  * @author Bando、なかの、ながい、よしだ
  * @version 1.0.0
  * @since 2025-02-18
- * 
+ * あいうえおえ
  */
 public class Main {
 
