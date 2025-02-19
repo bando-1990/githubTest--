@@ -29,7 +29,7 @@ import java.util.logging.Level;
  * @author Bando、なかの、ながい、よしだ、はやし
  * @version 1.0.0
  * @since 2025-02-18
- * あいうえおえ
+ * 
  */
 public class Main {
 
@@ -159,6 +159,7 @@ public class Main {
     /**
      * アプリケーションを初期化
      * 通常モードでの起動時に実行
+     * 
      */
     private static void initializeApplication() {
         try {
